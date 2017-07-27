@@ -1,0 +1,1 @@
+"c:\Program Files\qemu\qemu-system-i386.exe" -cdrom build/grove.iso
