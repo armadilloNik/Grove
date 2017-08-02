@@ -17,3 +17,10 @@ Grove is an operating system. A very simple one. The purpose of Grove is educati
 1. a simple text editor
 2. an interpreter of a yet to be determined programming language
 
+### Ok so how do I build it?
+run buld.sh
+It makes a lot of assumptions though. So it probably won't work for you. Environment setup and build documentation is in progress.
+
+### How did I get started with Grove?
+I started with the Bare Bones tutorial at: http://wiki.osdev.org/Bare_Bones
+OSDev.org is a great resource, but it leaves a lot of gaps if you aren't overly familiar with linux & C build enviroments like myself.  It is achievable without great effort, but it can be a frustrating experience at times. One of my personal goals with this project is to provide a better on-board experience into OS Development for experienced Windows platform developers.
