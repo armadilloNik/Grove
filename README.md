@@ -19,7 +19,7 @@ Grove is an operating system. A very simple one. The purpose of Grove is educati
 
 ### Ok so how do I build it?
 run buld.sh
-It makes a lot of assumptions though. So it probably won't work for you. Environment setup and build documentation is in progress.
+It makes a lot of assumptions though. So it probably won't work for you. Environment setup and build documentation are in progress.
 
 ### How did I get started with Grove?
 I started with the Bare Bones tutorial at: http://wiki.osdev.org/Bare_Bones
