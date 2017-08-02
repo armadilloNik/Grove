@@ -1,7 +1,7 @@
 # Grove OS
 
 ## What is Grove? ##
-Grove is an operating system. A very simple one. The purpose of Grove is educational, Mostly for my own learning. I hope to produce something that others can learn from as well.
+Grove is an operating system. A very simple one. The purpose of Grove is educational. Mostly for my own learning. I hope to produce something that others can learn from as well.
 
 ## What features does Grove have? ##
 1. It boots!
