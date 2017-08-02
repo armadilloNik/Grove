@@ -24,6 +24,6 @@ It makes a lot of assumptions though. So it probably won't work for you. Environ
 ### How did I get started with Grove?
 I started with the Bare Bones tutorial at: http://wiki.osdev.org/Bare_Bones
 
-OSDev.org is a great resource, but it leaves a lot of gaps. This is especially true if you aren't overly familiar with linux & C build enviroments like myself.  It is achievable without great effort, but it can be a frustrating experience at times. 
+OSDev.org is a great resource, but it leaves a lot of gaps. This is especially true if you aren't overly familiar with linux & C build environments like myself.  It is achievable without great effort, but it can be a frustrating experience at times. 
 
 One of my personal goals with this project is to provide a better OS Development on-boarding guide - specifically for experienced developers who primarily work on the Windows platform.
