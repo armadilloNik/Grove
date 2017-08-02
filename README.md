@@ -11,5 +11,9 @@ Grove is an operating system. A very simple one. The purpose of Grove is educati
 ## What features will Grove provide?  ##
 Do you really need anything else from your OS??
 
+The bare mininum feature set:
+1. Text output
+2. Keyboard input
+3. Data persistence
 
 
