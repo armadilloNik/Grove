@@ -9,11 +9,11 @@ Grove is an operating system. A very simple one. The purpose of Grove is educati
 3. It displays an ASCII tree!!!
 
 ## What features will Grove provide?  ##
-Do you really need anything else from your OS??
-
-The bare mininum feature set:
 1. Text output
 2. Keyboard input
 3. Data persistence
 
+## What else will be provided with Grove? ##
+1. a simple text editor
+2. an interpreter of a yet to be determined programming language
 
